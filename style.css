@@ -1,0 +1,157 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#VAR{
+    background-color: orange !important;
+}
+
+ nav a{
+    font-size: 1.5rem !important;
+ }
+
+ nav a:hover{
+    color: orangered !important;
+ }
+#hero{
+   background-image: url("./water-2943518_1280.jpg"); 
+   background-size: cover !important;
+   background-position: center !important;
+   width: 100% !important;
+   height: 100vh !important;
+}
+
+#hero .btn:hover{
+    background-color: orange !important;
+}
+
+#rk2{
+    font-size: 10rem !important;
+}
+
+#vk1{
+    background-color: green !important;
+    background-image: url("./mat.jpg");
+    background-position: center !important;
+    background-size: cover !important;
+}
+
+#vk2{
+    background-color:rgba(172, 255, 47, 0.911) !important;
+}
+
+#sec2 .btn{
+    border-radius: 50% !important;
+    background-color:orange !important;
+}
+
+#sec2 {
+    background-color: whitesmoke !important;
+    height: 60vh !important;
+}
+
+#sec3 .btn{
+    background-color: orange !important;
+    
+}
+
+#sec4{
+    /* background-color: orange !important;*/
+    background-image: url("./zero.jpg");
+    background-position: center !important;
+    background-size: cover !important;
+    height: 60vh !important;
+    width: 100% !important;
+
+    margin: 2rem !important;
+}
+
+#rn{
+    border-radius: 50% !important;
+}
+
+#mrk{
+    font-style: italic;
+    background-color: orange !important;
+}
+
+
+#mrk1{
+    font-style: italic;
+    background-color: rgba(0, 128, 0, 0.521) !important;
+}
+
+#mrk2{
+    font-style: italic;
+    background-color: rgba(172, 255, 47, 0.788) !important;
+}
+
+#cm .btn:hover{
+    background-color: white !important;
+    color: red !important;
+}
+
+#sec6 h3{
+    font-style: italic;
+    font-size: 7rem !important;
+    color: green !important;
+}
+
+#sec6{
+    background-color: rgba(60, 179, 114, 0.356);
+}
+
+#ro{
+    /* background-image: url("./flower.jpg"); */
+    /* background-position: center !important; */
+    /* background-size: cover !important; */
+}
+
+#sec7{
+    background-color: rgba(255, 255, 0, 0.438);
+    font-style: italic !important;
+    color:black !important;
+    
+}
+
+#m1 h3{
+    color: green !important;
+}
+
+#m1 {
+    /* color: green !important; */
+    background-color: whitesmoke !important;
+    height: 45vh !important;
+    padding: 3rem !important;
+}
+
+.rocky{
+    font-size: 5rem !important;
+}
+
+#MISS{
+    padding: 6rem !important;
+    background-color: orange !important;
+    color: white !important;
+    /* margin: 2rem !important; */
+}
+
+#jasi .btn:hover{
+background-color: orangered !important;
+}
+
+#contactus{
+    background-color: rgba(0, 128, 0, 0.541);
+    padding: 3rem !important;
+}
+
+#last h2{
+    font-size: 1rem !important;
+
+}
+
+#last h2:hover{
+    color: orangered !important;
+
+}
